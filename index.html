@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Alura</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <header class="header">
+        <ul class="nav justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Inicio</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#education">Educación</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#tec">Tecnologías</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#project">Proyectos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#contact">Contacto</a>
+            </li>
+        </ul>
+
+        <nav class="navbar bg-body-tertiary fixed-top">
+            <div class="container-fluid justify-content-end">
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                    aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header">
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#education">Educación</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#tec">Tecnologías</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#project">Proyectos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#contact">Contacto</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="main-about">
+        <div class="text-about">
+            <h3>Wilson Miguel Rosa Ortiz</h3>
+            <br>
+            <p>Como desarrollador front-end, mi enfoque está en crear interfaces de usuario atractivas y funcionales
+                para
+                aplicaciones web. Mi objetivo es poder crecer profesionalmente en una empresa, aportando todo de mi y
+                aprendiendo mucho de ella.
+            </p>
+            <br>
+            <a href="#" target="_blank">
+                <button class="boton-about">Descargar CV</button>
+            </a>
+        </div>
+        <div class="image-about">
+            <img src="https://pcgservices.com/wp-content/uploads/2018/10/picture_here.jpg" alt="sig">
+        </div>
+    </div>
+
+    <h3>Educación</h3>
+    <div class="education">
+        <div class="text-education" id="educations">
+        </div>
+    </div>
+
+    <div class="main-skills">
+        <h3>Tecnologías</h3>
+        <div class="icons-skills" id="skills">
+            <i class="fa-brands fa-html5 fa-beat"></i>
+            <i class="fa-brands fa-css3-alt fa-beat"></i>
+            <i class="fa-brands fa-square-js fa-beat"></i>
+            <i class="fa-brands fa-angular fa-beat"></i>
+            <i class="fa-brands fa-wordpress fa-beat"></i>
+            <i class="fa-brands fa-react fa-beat"></i>
+        </div>
+    </div>
+
+    <h3>Proyectos</h3>
+<div class="main-proyecto">
+    <div class="project-proyecto" id="projects">
+    </div>
+</div>
+
+<div class="formulario">
+    <form>
+        <label>NOMBRE</label><input type="text">
+        <label>CORREO</label><input type="email">
+        <label>MENSAJE</label><textarea></textarea>
+        <input type="submit" value="ENVIAR">
+    </form>
+</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,344 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background: #080808;
+    font-family: 'IBM Plex Mono', monospace;
+    position: fixed;
+    width: 100%;
+    padding: 15px;
+}
+
+.navbar {
+    display: none !important;
+}
+
+.nav-item a {
+    color: rgb(207, 206, 206);
+}
+
+.nav-item a:hover {
+    cursor: pointer;
+    color: rgb(156, 156, 156);
+}
+
+@media (width < 615px) {
+    .nav {
+        display: none !important;
+    }
+
+    .navbar {
+        display: block !important;
+    }
+
+    .nav-item a {
+        color: black;
+    }
+}
+
+.main-about {
+    height: 100%;
+    width: 100%;
+    background: #080808;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 100px;
+    padding-top: 150px;
+}
+
+.text-about {
+    width: 50%;
+}
+
+.text-about h3 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+}
+
+.text-about p {
+    color: dimgray;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.boton-about {
+    padding: 10px 50px;
+    font-size: 18px;
+    color: white;
+    background: rgb(34, 139, 34);
+    border: none;
+    box-shadow: 1px 1px 8px 3px rgba(34, 139, 34, 0.7);
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.boton-about:hover {
+    cursor: pointer;
+    background: rgb(18, 192, 18);
+}
+
+.image-about {
+    width: 31%;
+}
+
+.image-about img {
+    width: 95%;
+    height: 350px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+@media (width < 1000px) {
+    .main-about {
+        gap: 20px;
+    }
+
+    .image-about {
+        width: 50%;
+    }
+
+    .image-about img {
+        width: 300px;
+    }
+}
+
+@media (width < 800px) {
+    .main-about {
+        gap: 20px;
+    }
+
+    .image-about {
+        width: 50%;
+    }
+
+    .image-about img {
+        width: 300px;
+    }
+}
+
+@media (width < 615px) {
+
+    .image-about {
+        display: none;
+    }
+
+    .text-about {
+        width: 100%;
+    }
+}
+
+@media (width < 510px) {
+
+    .main-about {
+        width: 100%;
+    }
+
+    .text-about {
+        font-size: 14px;
+    }
+
+    p {
+        animation-duration: 1s;
+        animation-name: slidein;
+    }
+
+    @keyframes slidein {
+        from {
+            margin-left: 100%;
+            width: 100%;
+            opacity: 0;
+        }
+
+        to {
+            margin-left: 0%;
+            width: 100%;
+            opacity: 1;
+        }
+    }
+
+    .boton-about {
+        font-size: 15px;
+        padding: 10px 50px;
+    }
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    color: #9C9C9C;
+}
+
+.education {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    gap: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+.text-education {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    width: 30%;
+}
+
+.image-education {
+    width: 30%;
+}
+
+.image-education img {
+    width: 80%;
+    height: 200px;
+    border-radius: 1em;
+    object-fit: cover;
+}
+
+.place-education {
+    margin: auto;
+    width: 50%;
+    background-color: oldlace;
+    color: orange;
+    font-size: 17px;
+    padding: 5px;
+    border-radius: 1em;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.boton-education {
+    font-size: 15px;
+    padding: 10px 40px;
+    background: orange;
+    color: white;
+    border: none;
+    border-radius: .5em;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.2);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+}
+
+.boton-education:hover {
+    cursor: pointer;
+    background-color: rgb(255, 187, 61);
+}
+
+@media (width < 500px) {
+    .education{
+        flex-direction: column;
+    }
+
+    .text-education {
+        width: 100%;
+    }
+
+    .image-educaction {
+        width: 100%;
+    }
+}
+
+.main-skills {
+    background: #080808;
+}
+
+.main-skills h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    padding-top: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+.icons-skills { 
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    font-size: 100px;
+    gap: 120px;
+    flex-wrap: wrap;
+    padding: 100px;
+    width: 100%;
+}
+
+.icons-skills i {
+    display: flex;
+    justify-content: center;
+    width: 20%;
+}
+
+
+.main-proyecto h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+.main-proyecto p {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+    color: #9C9C9C;
+    text-align: justify;
+}
+
+.main-proyecto {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.project-proyecto {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 25%;
+}
+
+.project-proyecto img {
+    width: 100%;
+    height: 200px;
+    border-radius: 1.5em;
+    object-fit: contain;
+}
+
+
+@media (width < 500px ) {
+    .project-proyecto {
+        width: 80%;
+    }
+
+}
+
+.formulario {
+    color: white;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+}
+.formulario input, textarea {
+   display: block;
+}
