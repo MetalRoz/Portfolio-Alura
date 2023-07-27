@@ -19,7 +19,7 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAFGiVu2lUfQT18tiwxOjj3Ozr
 https://ddh2.cdndac.lol/ddh2/premium638/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Telemundo_Internacional_HD_2012.svg/revision/latest/scale-to-width-down/250?cb=20210215195739" group-title="Canales de Novelas",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
+https://live.telelatinohd.com:8080/MTg2LjEyMC4yMjYuMjU0/48_.m3u8?token=PlkyaP3liU8LugiUaTwzKQ&expires=1690491729432
 
 #EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-title="Canales Variados",Discovery Home & Health
 https://1075-vos.dtvott.com/DASH/stream_03/1689836530026_init.m4i
