@@ -27,3 +27,6 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Canales infantiles", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Univision" tvg-logo="https://static.cdnlogo.com/logos/u/83/univision.svg" group-title="Canales de Novelas", Univision
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_800_pc.m3u8?hdnea=st=1690485305~exp=1690571705~acl=*~hmac=1e13664365b1ec89cba8ade7d0aa0a018ac9479b86978e72239c8628f9e9c879&fdvr=dvr
