@@ -16,5 +16,5 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqYFbdnm5ygzhMHGQeDk7TLRkYK
 #EXTINF:-1 tvg-id="AZTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96848219e9020d88c67ea7c0e778504.webp" group-title="Canales de Anime", AZTV
 https://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Brazzers TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/BRAZZ.png" group-title="Canales de Adultos" Brazzers TV
+#EXTINF:-1 tvg-id="Brazzers TV" tvg-logo="https://sc.dish.com/shared/images/station-logos/BRAZZ.png" group-title="Canales de Adultos", Brazzers TV
 https://ddy1.cdndac.lol/ddy1/premium503/tracks-v1a1/mono.m3u8
