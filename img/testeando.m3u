@@ -1,11 +1,15 @@
-#EXTINF:-1 tvg-id="Antena 7" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2020/10/26191515/Antena7.jpg" group-title="Canales de TV", Antena 7
+#EXTINF:-1 tvg-id="Antena 7" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2020/10/26191515/Antena7.jpg" group-title="Canales Dominicanos", Antena 7
 https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
 
-#EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="Canales de TV", Telemicro
+#EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="Canales Dominicanos", Telemicro
 https://playback.akamaized.net/streams/27456795_10633780_lsialldx5nt7ow2ifzk_1/media/27456795_10633780_lsialldx5nt7ow2ifzk_1@1756000p.m3u8?dw=14400&ts=1690416000&hdnts=exp=1690592045~acl=/streams/27456795_10633780_lsialldx5nt7ow2ifzk_1/media*~hmac=3ec47a342eb3758de1c86fe39125a6d8b8a58aa794a3c9e171a163d0bf3446dc
 
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx",Cartoon Network México (720p)
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Canales infantiles", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="TVP" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxwXvz0_9BK1V0jwT-UO0SpMyHbVZyNs6zjcutbxJcqtYcae39iRyC28lYmLtpOAIL0agB4iLg7Ftrn81Jo2TVYjA=s0-d" group-title="Canales de TV", TVP Argentina
+
+#EXTINF:-1 tvg-id="TVP" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxwXvz0_9BK1V0jwT-UO0SpMyHbVZyNs6zjcutbxJcqtYcae39iRyC28lYmLtpOAIL0agB4iLg7Ftrn81Jo2TVYjA=s0-d" group-title="Canales Argentinos", TVP Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Canales de Novelas",Telemundo Los Angeles (720p)
+https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
