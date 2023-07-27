@@ -11,6 +11,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxwXvz0_9BK1V0jwT-UO0SpMyHbVZyNs6zjcutbxJcqtYcae39iRyC28lYmLtpOAIL0agB4iLg7Ftrn81Jo2TVYjA=s0-d" group-title="Canales Argentinos", TVP Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png" group-title="Canales Argentinos", ESPN
+https://cdn.tutelehd.sx/live/STd2861428177dd12.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Telemundo_Internacional_HD_2012.svg/revision/latest/scale-to-width-down/250?cb=20210215195739" group-title="Canales de Novelas",Telemundo
 https://ddy1.cdndac.lol/ddy1/premium131/tracks-v1a1/mono.m3u8
 
