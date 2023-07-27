@@ -11,6 +11,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxwXvz0_9BK1V0jwT-UO0SpMyHbVZyNs6zjcutbxJcqtYcae39iRyC28lYmLtpOAIL0agB4iLg7Ftrn81Jo2TVYjA=s0-d" group-title="Canales Argentinos", TVP Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
+
+#EXTINF:-1 tvg-id="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Canales de Novelas", TL Novelas
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqAF7jAXXmbf_gTKpWtD1LUesMjuzGxRFgaFf5FoWjcfMUkprKfacfq-OEwIFwkbwLhhG8CcdwSKLY5ZOH3B6bT6X0D-2UICdrOC5CiJZT8FNAywL7f3pl-Tk_Xzr4iXDUbwnLIQ-ekuzeUJ1oI_TJIwBDOquDtEFEb7mAuGHlowBfFarfgmoYuJZsDJqg3tzYAKYn3zKSNb8cuD2saSgz_7qMUz-MfnUxpLogVqmseBTln8RxoyR7kij7gZmeBZ8hdPAjQoSZ-WDFsZv6hRsDZpN6LztOhIUix_maQQHG1IyqehTxoWwxgmk7gGSfoVNh0A2OZELmqGp5M0qXliKp8KmrMxv8EJ4ac1-YghjtKMNZ8WUDgFHxAavyav_VwzW5lI8yDZwudqUqU-6-LFKqlCRuUWga8naUYRweeZBieNi7s8uJKgq3RoWuknmIdSt2XEau4mvZ7jsUdoEWMtSkG_nlbRP8__vraoJ9LIhkr7Phjwxp_Bf969gcTmoMPzc371gMyE-8f8MlNFpJoDd4xgdgoHms59GPrnVKh1WMFCAjUTXj7EtYpKAvJDQ66fdGqut5CoTld7HAqGgnjlik7uPNDcU6ZtIM_30kDVS68OD_PAIQnD4MAj14DD3yIbRJhjcmSoiTURIHsB3drKNkYpLvhNvVZX8MVPSJxbOGz2Yfhc7XM7uadcHtFY_iDd26lWjIalNSUeDTkrrjLeEh5JGHQb943eekbR12Eg0TyuYKnh6c9Nv69lb8n2z4lierR4hCIzmUW1CdBeeaF_piZUuMe1dh_MkXBVAfGIYFw9mKE-i-COcANYjftR_wM-wgzF18483NANTbT6EEihCaKY31PAJ0ZI0ee9fZrcLGQSCc3abahrsCpDPO4C6dEGrCByGgxAoa9go8tzGM5oTkogASoJZXUtd2VzdC0yMJIH.m3u8
+
+
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-768x461.png" group-title="Canales Argentinos", ESPN
 https://ddh2.cdndac.lol/ddh2/premium638/tracks-v1a1/mono.m3u8
 
