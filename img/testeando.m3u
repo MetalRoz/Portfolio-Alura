@@ -23,10 +23,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png" group-title="Canales infantiles", Nickelodeon
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Canales infantiles", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="Univision" tvg-logo="https://static.cdnlogo.com/logos/u/83/univision.svg" group-title="Canales de Novelas", Univision
-https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_800_pc.m3u8?hdnea=st=1690485305~exp=1690571705~acl=*~hmac=1e13664365b1ec89cba8ade7d0aa0a018ac9479b86978e72239c8628f9e9c879&fdvr=dvr
+#EXTINF:-1 tvg-id="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="Canales de Novelas", Univision
+https://unidfp-nlds138.global.ssl.fastly.net/nlds/univisionnow/univision_dal2/as/live/univision_dal2_hd_pc.m3u8?t1=
