@@ -28,8 +28,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Canales infantiles", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg" group-title="Canales de Cine", HBO
-https://embed.telextrema.com/embed2/telemundo.html
+#EXTINF:-1 tvg-id="PlanetaTVKIDS" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/s86a1480785a470a0/image/i4d70c107366ad92d/version/1619771132/image.jpg" group-title="Canales infantiles", Planeta TV KIDS
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
 
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-1.png" group-title="Canales Variados", Discovery Home & Health
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qEg1s1I10U3WT39hSzcCghT2d2AaaDQRHpbg2tQTa2e)/dm/3/x809r6i/s/live-1.m3u8
