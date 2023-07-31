@@ -22,8 +22,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="Canales de Novelas", Canal de las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png" group-title="Canales infantiles", Nick Clasico 
-http://209.126.124.75:25461/live/joan/ramos123/8352.ts?token=HhFfBERQRAwRBQZTUwUDXQQCWgcAAlEFAwlWDQZUDVVQUAFTDgBfUwMTHkcRRkEBU15nDFUQW1kADVYVFUJKABdsXgEVAkQCBQEGR04QRw1fVhpfAARYUQQPUwoFDxVHFVpTRw0aVA4GBABHThBWHEZWSgtQXj4FVk4NWlIVAwsQX1tJFVcIaVdUXwQMVhFeEAMaSRNbEhERAgpMW1sVRwdaQxdWTAMUCRMAVVoEEUgQUFcQX0YTGBECRn14FRVHAEtDAFlLD1ldEwhHFkERSBBaSzpDVxIVQV0FVFJFG19HAxVJFVUHTmxSXQsMV1AQW1xWFhMIQ1ARFEZUWFlQEQpBaBVeXEQMEQACVFAQTg==
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png" group-title="Canales infantiles", Nick
+http://thelidertv.online:1993/live/joan/ramos123/8370.ts
 
 
 
