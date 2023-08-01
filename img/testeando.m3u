@@ -2,39 +2,46 @@
 https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telemicro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png/revision/latest/scale-to-width-down/170?cb=20191125192220&path-prefix=es" group-title="Canales Dominicanos", Telemicro
-https://playback.akamaized.net/streams/27456795_10633780_lsialldx5nt7ow2ifzk_1/media/27456795_10633780_lsialldx5nt7ow2ifzk_1@1756000p.m3u8?dw=14400&ts=1690416000&hdnts=exp=1690592045~acl=/streams/27456795_10633780_lsialldx5nt7ow2ifzk_1/media*~hmac=3ec47a342eb3758de1c86fe39125a6d8b8a58aa794a3c9e171a163d0bf3446dc
+http://thelidertv.online:1993/live/joan/ramos123/8470.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Canales infantiles", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+http://thelidertv.online:1993/live/joan/ramos123/8351.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Canales infantiles", Cartoonito
+http://thelidertv.online:1993/live/joan/ramos123/8347.m3u8
 
 
 #EXTINF:-1 tvg-id="TVP" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AAOd8MxwXvz0_9BK1V0jwT-UO0SpMyHbVZyNs6zjcutbxJcqtYcae39iRyC28lYmLtpOAIL0agB4iLg7Ftrn81Jo2TVYjA=s0-d" group-title="Canales Argentinos", TVP Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Canales de Novelas", TL Novelas
+#EXTINF:-1 tvg-id="TLNovelas EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Canales de Novelas", TLNovelas Europa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TLNovelas Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Canales de Novelas", TLNovelas Univisión
+http://thelidertv.online:1993/live/joan/ramos123/8904.m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Canales de Novelas", TLNovelas México
+http://thelidertv.online:1993/live/joan/ramos123/167281.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoPR" tvg-logo="https://m.media-amazon.com/images/I/51jH8ih1EpL.png" group-title="Canales de Novelas",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Canales de Novelas",Telemundo Miami
+http://thelidertv.online:1993/live/joan/ramos123/8937.m3u8
+
 #EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" group-title="Canales de Novelas", Canal de las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://thelidertv.online:1993/live/joan/ramos123/8916.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png" group-title="Canales infantiles", Nick
-http://thelidertv.online:1993/live/joan/ramos123/8370.ts
-
+http://thelidertv.online:1993/live/joan/ramos123/8370.m3u8
 
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Canales infantiles", Cartoonito
 
 
-#EXTINF:-1 tvg-id="PlanetaTVKIDS" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/s86a1480785a470a0/image/i4d70c107366ad92d/version/1619771132/image.jpg" group-title="Canales infantiles", Planeta TV KIDS
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?TecnoPlaylist
-
-#EXTINF:-1 tvg-id="South Park" tvg-logo="https://logonoid.com/images/south-park-logo.png" group-title="Canales infantiles", South Park 24/7
-
+#EXTINF:-1 tvg-id="South Park" tvg-logo="https://logonoid.com/images/south-park-logo.png" group-title="Canales 24/7", South Park 24/7
+http://thelidertv.online:1993/live/joan/ramos123/218574.m3u8
 
 
 #EXTINF:-1 tvg-id="Teletica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="Canales Variados", Teletica
@@ -43,8 +50,9 @@ https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d952
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-title="Canales Variados", Discovery Home & Health
 http://thelidertv.online:1993/live/joan/ramos123/8356.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/05/Deportv-en-vivo-Online.png" group-title="Canales Argentinos", DeporTV
-https://ythls.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
+#EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-title="Canales Variados", Discovery Investigation
+http://thelidertv.online:1993/live/joan/ramos123/8360.m3u8
 
-#EXTINF:-1 tvg-id="XtremaAnime" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animes 24hs", Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="Canales de Novelas", Pasiones
+http://thelidertv.online:1993/live/joan/ramos123/8907.m3u8
