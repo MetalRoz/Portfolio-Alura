@@ -50,7 +50,7 @@ https://m6gdar5eyn93-hls-live.5centscdn.com/StreamTeletica/73aac4dc8f2bab2a5d952
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-title="Canales Variados", Discovery Home & Health
 http://thelidertv.online:1993/live/joan/ramos123/8356.m3u8
 
-#EXTINF:-1 tvg-id="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0-2048x2048.png" group-title="Canales Variados", Discovery Investigation
+#EXTINF:-1 tvg-id="Discovery ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Investigation_Discovery_%28Print%29.svg/revision/latest/scale-to-width-down/200?cb=20171114040200" group-title="Canales Variados", Discovery Investigation
 http://thelidertv.online:1993/live/joan/ramos123/8360.m3u8
 
 
